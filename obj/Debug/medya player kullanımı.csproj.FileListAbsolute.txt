@@ -1,0 +1,15 @@
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\bin\Debug\medya player kullanımı.exe.config
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\bin\Debug\medya player kullanımı.exe
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\bin\Debug\medya player kullanımı.pdb
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.csproj.ResolveComReference.cache
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya_player_kullanımı.Form1.resources
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya_player_kullanımı.Properties.Resources.resources
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.exe
+C:\Users\Windows10\source\repos\medya player kullanımı\medya player kullanımı\obj\Debug\medya player kullanımı.pdb
